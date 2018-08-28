@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 line 5
 line 4
-=======
 branch test
->>>>>>> dev
 third line
 haha
 hoh
